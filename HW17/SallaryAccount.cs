@@ -11,6 +11,7 @@ namespace HW17
     {
         public double Balance { get; set; }
         public double Interest { get; set; }
+
         public SallaryAccount(double balance) 
         { 
             Balance = balance;
